@@ -17,10 +17,16 @@ body, html {
   text-align: center;
   color: #ffffff;
   padding-top: 40px;
+  max-width: 100vw;
+  word-break: break-word;
+  text-wrap: wrap;
+  overflow-x: clip;
 }
 
 pre {
   font-family: go-mono;
+  word-break: break-word;
+  text-wrap: wrap;
 }
 
 ::-webkit-scrollbar {
@@ -75,303 +81,303 @@ a {
 }
 
 .embers > span:nth-child(1) {
-  bottom: 71.5627496319px;
-  left: 362.6725393442px;
-  animation-delay: 0.1441905049s;
+  bottom: 88.8480816209px;
+  left: 196.1000616089px;
+  animation-delay: 0.6739763056s;
 }
 
 .embers > span:nth-child(2) {
-  bottom: 79.3711229419px;
-  left: 75.4317261952px;
-  animation-delay: 0.2006853354s;
+  bottom: 88.6764991506px;
+  left: 55.8824233263px;
+  animation-delay: 0.7661450656s;
 }
 
 .embers > span:nth-child(3) {
-  bottom: 77.1419742358px;
-  left: 312.9908770033px;
-  animation-delay: 0.5419339794s;
+  bottom: 61.6329044342px;
+  left: 347.4459880159px;
+  animation-delay: 0.0748555941s;
 }
 
 .embers > span:nth-child(4) {
-  bottom: 68.9594232929px;
-  left: 347.7512250433px;
-  animation-delay: 0.5894913767s;
+  bottom: 68.2276875434px;
+  left: 374.6465584049px;
+  animation-delay: 0.5636496882s;
 }
 
 .embers > span:nth-child(5) {
-  bottom: 67.1640827414px;
-  left: 24.5068796598px;
-  animation-delay: 0.0794109451s;
+  bottom: 75.0867885197px;
+  left: 119.4315755556px;
+  animation-delay: 0.4102274202s;
 }
 
 .embers > span:nth-child(6) {
-  bottom: 83.9080391697px;
-  left: 82.6068458893px;
-  animation-delay: 0.0637714873s;
+  bottom: 88.9505005062px;
+  left: 170.0724195441px;
+  animation-delay: 0.7643437072s;
 }
 
 .embers > span:nth-child(7) {
-  bottom: 73.2300724372px;
-  left: 246.5203491781px;
-  animation-delay: 0.2896429558s;
+  bottom: 65.6187471567px;
+  left: 274.9217985346px;
+  animation-delay: 0.108411975s;
 }
 
 .embers > span:nth-child(8) {
-  bottom: 69.2058954841px;
-  left: 353.8944916379px;
-  animation-delay: 0.347686703s;
+  bottom: 69.2753915934px;
+  left: 309.2013134345px;
+  animation-delay: 0.2600570418s;
 }
 
 .embers > span:nth-child(9) {
-  bottom: 74.8030908883px;
-  left: 52.9043492133px;
-  animation-delay: 0.1538262937s;
+  bottom: 77.7231504881px;
+  left: 379.4693553235px;
+  animation-delay: 0.7784128707s;
 }
 
 .embers > span:nth-child(10) {
-  bottom: 72.410868008px;
-  left: 114.4922620803px;
-  animation-delay: 0.4631996667s;
+  bottom: 67.5709307537px;
+  left: 50.0919907021px;
+  animation-delay: 0.7212886739s;
 }
 
 .embers > span:nth-child(11) {
-  bottom: 70.9203643963px;
-  left: 335.3479274324px;
-  animation-delay: 0.5152471265s;
+  bottom: 64.4622001559px;
+  left: 107.2579501579px;
+  animation-delay: 0.1390212482s;
 }
 
 .embers > span:nth-child(12) {
-  bottom: 67.7904155845px;
-  left: 110.5200926413px;
-  animation-delay: 0.624451052s;
+  bottom: 81.5652170853px;
+  left: 57.0836983936px;
+  animation-delay: 0.6292247255s;
 }
 
 .embers > span:nth-child(13) {
-  bottom: 60.8346912707px;
-  left: 175.7742539043px;
-  animation-delay: 0.3934600944s;
+  bottom: 85.1585715874px;
+  left: 342.8407903406px;
+  animation-delay: 0.5691291555s;
 }
 
 .embers > span:nth-child(14) {
-  bottom: 89.0742756713px;
-  left: 155.6986985161px;
-  animation-delay: 0.3368109293s;
+  bottom: 79.2067983143px;
+  left: 169.9017562331px;
+  animation-delay: 0.0733233107s;
 }
 
 .embers > span:nth-child(15) {
-  bottom: 60.0582262906px;
-  left: 222.8782023007px;
-  animation-delay: 0.3719105563s;
+  bottom: 89.104852176px;
+  left: 49.2472961629px;
+  animation-delay: 0.5805418285s;
 }
 
 .embers > span:nth-child(16) {
-  bottom: 72.6327068035px;
-  left: 353.5116212032px;
-  animation-delay: 0.1477229632s;
+  bottom: 66.4542980323px;
+  left: 183.341090172px;
+  animation-delay: 0.4259882425s;
 }
 
 .embers > span:nth-child(17) {
-  bottom: 71.551398317px;
-  left: 24.9599081784px;
-  animation-delay: 0.3679813106s;
+  bottom: 74.4276180162px;
+  left: 121.7927948183px;
+  animation-delay: 0.1980147602s;
 }
 
 .embers > span:nth-child(18) {
-  bottom: 76.1928241542px;
-  left: 273.0518678144px;
-  animation-delay: 0.5823570385s;
+  bottom: 69.9862359141px;
+  left: 100.6348397586px;
+  animation-delay: 0.7377032766s;
 }
 
 .embers > span:nth-child(19) {
-  bottom: 61.9982477901px;
-  left: 301.098837952px;
-  animation-delay: 0.0556068773s;
+  bottom: 67.6861653479px;
+  left: 295.6244271976px;
+  animation-delay: 0.4064252534s;
 }
 
 .embers > span:nth-child(20) {
-  bottom: 76.6375243716px;
-  left: 256.4275120288px;
-  animation-delay: 0.4215157739s;
+  bottom: 61.8057190564px;
+  left: 238.8112178733px;
+  animation-delay: 0.7722898707s;
 }
 
 .embers > span:nth-child(21) {
-  bottom: 85.8220151756px;
-  left: 67.0701974805px;
-  animation-delay: 0.4283707001s;
+  bottom: 81.6338334576px;
+  left: 181.2553783705px;
+  animation-delay: 0.0107466959s;
 }
 
 .embers > span:nth-child(22) {
-  bottom: 71.1488992434px;
-  left: 125.6958429859px;
-  animation-delay: 0.4118095483s;
+  bottom: 67.9185284221px;
+  left: 93.6161811756px;
+  animation-delay: 0.074526406s;
 }
 
 .embers > span:nth-child(23) {
-  bottom: 81.7511269912px;
-  left: 363.7379481954px;
-  animation-delay: 0.1068632236s;
+  bottom: 69.6631506119px;
+  left: 281.3163957335px;
+  animation-delay: 0.3159004809s;
 }
 
 .embers > span:nth-child(24) {
-  bottom: 62.1978248728px;
-  left: 41.9256986621px;
-  animation-delay: 0.568438944s;
+  bottom: 85.1558700596px;
+  left: 232.1633792551px;
+  animation-delay: 0.3147569076s;
 }
 
 .embers > span:nth-child(25) {
-  bottom: 60.6687591583px;
-  left: 236.2483697193px;
-  animation-delay: 0.6363992846s;
+  bottom: 86.8830107534px;
+  left: 374.8177513198px;
+  animation-delay: 0.2136162967s;
 }
 
 .embers > span:nth-child(26) {
-  bottom: 77.7605282689px;
-  left: 306.411285526px;
-  animation-delay: 0.5565183587s;
+  bottom: 64.4959223574px;
+  left: 323.5669671626px;
+  animation-delay: 0.6894107425s;
 }
 
 .embers > span:nth-child(27) {
-  bottom: 88.1086490022px;
-  left: 160.3450170168px;
-  animation-delay: 0.5789526608s;
+  bottom: 83.7630466514px;
+  left: 345.0396819727px;
+  animation-delay: 0.1023480994s;
 }
 
 .embers > span:nth-child(28) {
-  bottom: 82.8248797299px;
-  left: 146.6378099636px;
-  animation-delay: 0.374144626s;
+  bottom: 64.0246518758px;
+  left: 230.5268839304px;
+  animation-delay: 0.6073390206s;
 }
 
 .embers > span:nth-child(29) {
-  bottom: 85.8742248314px;
-  left: 165.7297352054px;
-  animation-delay: 0.3281781949s;
+  bottom: 75.6623756465px;
+  left: 62.5683541639px;
+  animation-delay: 0.7277869365s;
 }
 
 .embers > span:nth-child(30) {
-  bottom: 84.0180846092px;
-  left: 134.9682537758px;
-  animation-delay: 0.4751699194s;
+  bottom: 62.3810172072px;
+  left: 47.7455227871px;
+  animation-delay: 0.1446468674s;
 }
 
 .embers > span:nth-child(31) {
-  bottom: 86.8781749543px;
-  left: 76.7762334562px;
-  animation-delay: 0.1725582536s;
+  bottom: 74.3157931019px;
+  left: 165.2334777099px;
+  animation-delay: 0.1580798014s;
 }
 
 .embers > span:nth-child(32) {
-  bottom: 66.0722765946px;
-  left: 182.3385579625px;
-  animation-delay: 0.2307448609s;
+  bottom: 73.4008767175px;
+  left: 292.3866572729px;
+  animation-delay: 0.355464215s;
 }
 
 .embers > span:nth-child(33) {
-  bottom: 83.595046873px;
-  left: 324.1425495425px;
-  animation-delay: 0.3278130853s;
+  bottom: 89.0836353635px;
+  left: 330.2315363121px;
+  animation-delay: 0.4852771134s;
 }
 
 .embers > span:nth-child(34) {
-  bottom: 78.5630543623px;
-  left: 257.7965152342px;
-  animation-delay: 0.036926949s;
+  bottom: 66.8674538421px;
+  left: 366.7741885786px;
+  animation-delay: 0.4105387387s;
 }
 
 .embers > span:nth-child(35) {
-  bottom: 74.7377366356px;
-  left: 115.6473203673px;
-  animation-delay: 0.356899932s;
+  bottom: 62.5621338801px;
+  left: 357.6163468637px;
+  animation-delay: 0.0116608326s;
 }
 
 .embers > span:nth-child(36) {
-  bottom: 79.0978030407px;
-  left: 343.8910274615px;
-  animation-delay: 0.1077341229s;
+  bottom: 83.2055376948px;
+  left: 200.106769645px;
+  animation-delay: 0.1288246941s;
 }
 
 .embers > span:nth-child(37) {
-  bottom: 79.6884321419px;
-  left: 104.5012837834px;
-  animation-delay: 0.3652882608s;
+  bottom: 79.7725591407px;
+  left: 223.5009279525px;
+  animation-delay: 0.3978958736s;
 }
 
 .embers > span:nth-child(38) {
-  bottom: 72.8764744976px;
-  left: 240.2860774402px;
-  animation-delay: 0.2756194116s;
+  bottom: 65.8016101593px;
+  left: 301.7387545153px;
+  animation-delay: 0.5070220351s;
 }
 
 .embers > span:nth-child(39) {
-  bottom: 87.4240703983px;
-  left: 270.9044264684px;
-  animation-delay: 0.7742443106s;
+  bottom: 84.2856672854px;
+  left: 20.2087547476px;
+  animation-delay: 0.0961874828s;
 }
 
 .embers > span:nth-child(40) {
-  bottom: 67.4556030886px;
-  left: 193.0492390919px;
-  animation-delay: 0.5395541194s;
+  bottom: 74.1140946883px;
+  left: 364.2083261343px;
+  animation-delay: 0.117058644s;
 }
 
 .embers > span:nth-child(41) {
-  bottom: 82.9210132891px;
-  left: 295.9719156695px;
-  animation-delay: 0.6836957549s;
+  bottom: 89.3078465148px;
+  left: 150.5940553179px;
+  animation-delay: 0.1063719626s;
 }
 
 .embers > span:nth-child(42) {
-  bottom: 74.8407102303px;
-  left: 341.8663373942px;
-  animation-delay: 0.0266337528s;
+  bottom: 78.8457545467px;
+  left: 113.2383493293px;
+  animation-delay: 0.5161961498s;
 }
 
 .embers > span:nth-child(43) {
-  bottom: 61.4611085812px;
-  left: 211.2229377266px;
-  animation-delay: 0.6648517992s;
+  bottom: 84.6541008481px;
+  left: 50.0233867583px;
+  animation-delay: 0.7453655225s;
 }
 
 .embers > span:nth-child(44) {
-  bottom: 73.2003156069px;
-  left: 80.9392790701px;
-  animation-delay: 0.1409987289s;
+  bottom: 66.657821054px;
+  left: 312.706655129px;
+  animation-delay: 0.380853373s;
 }
 
 .embers > span:nth-child(45) {
-  bottom: 88.8418586901px;
-  left: 209.6934459868px;
-  animation-delay: 0.565450278s;
+  bottom: 78.1366223373px;
+  left: 313.4875063412px;
+  animation-delay: 0.33806956s;
 }
 
 .embers > span:nth-child(46) {
-  bottom: 74.1897596009px;
-  left: 222.077676326px;
-  animation-delay: 0.17845216s;
+  bottom: 63.0214464723px;
+  left: 178.620436038px;
+  animation-delay: 0.3846320575s;
 }
 
 .embers > span:nth-child(47) {
-  bottom: 89.5035855845px;
-  left: 222.6098603656px;
-  animation-delay: 0.288079302s;
+  bottom: 86.8121810554px;
+  left: 178.9462116928px;
+  animation-delay: 0.042514022s;
 }
 
 .embers > span:nth-child(48) {
-  bottom: 71.8350657252px;
-  left: 260.3416276047px;
-  animation-delay: 0.0317323814s;
+  bottom: 67.8362856429px;
+  left: 249.7487754321px;
+  animation-delay: 0.416372825s;
 }
 
 .embers > span:nth-child(49) {
-  bottom: 85.9977397606px;
-  left: 51.7332850951px;
-  animation-delay: 0.2450747527s;
+  bottom: 61.7666487326px;
+  left: 110.0961106972px;
+  animation-delay: 0.1918090758s;
 }
 
 .embers > span:nth-child(50) {
-  bottom: 60.4697452559px;
-  left: 346.2115591836px;
-  animation-delay: 0.3627425837s;
+  bottom: 68.8378972397px;
+  left: 321.3321242078px;
+  animation-delay: 0.36557669s;
 }
 
 @keyframes burn {

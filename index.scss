@@ -17,10 +17,16 @@ body, html {
   text-align: center;
   color: #ffffff;
   padding-top: 40px;
+  max-width: 100vw;
+  word-break: break-word;
+  text-wrap: wrap;
+  overflow-x: clip;
 }
 
 pre {
   font-family: go-mono;
+  word-break: break-word;
+  text-wrap: wrap;
 }
 
 ::-webkit-scrollbar {
