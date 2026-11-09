@@ -1,7 +1,7 @@
 html {
   background-image: url(topo.svg);
-  background-repeat: repeat;
-  background-size: cover;
+  background-repeat: round;
+  background-size: 600px;
   cursor: url(cursor.png);
 }
 
@@ -17,6 +17,10 @@ body, html {
   text-align: center;
   color: #ffffff;
   padding-top: 40px;
+}
+
+pre {
+  font-family: go-mono;
 }
 
 ::-webkit-scrollbar {
